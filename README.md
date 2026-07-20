@@ -54,10 +54,10 @@ Next j
 ```
 
 # 成果展示
-如下圖輸入應生產數量，並輸入預期的製損率
+如下圖，輸入應生產數量，並修改預期的製損率
 ![輸入數量](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Input.JPG)
 
-本來需要幾個小時彙整運算，現在只需要不到5秒鐘，即可得到最終報表，大幅縮短作業時間，同時降低重複加總和運算錯誤  
+本來需要幾個小時彙整運算，現在只需要不到5秒鐘，大幅縮短作業時間，同時降低重複加總和運算錯誤  
 ![結果報表](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Result.JPG)
 
 # 預想未來還可以拓展的功能
