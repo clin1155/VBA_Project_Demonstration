@@ -14,7 +14,7 @@
 考慮到未來資料大量增加的時候，依然保持程式的執行效率，我決定採用Dictionary，但是無法達到我預期的效果。我把問題交給ChatGPT、CoPilot、DeepAI等模型，最後決定採用雙層Dictionary + Array的方式來完成，代碼最核心的邏輯如下：
 
 
-'''
+```vba
 Dim IngredientName As String
 Dim Supplier As String
 Dim Dosage As Double
@@ -52,11 +52,14 @@ For j = 2 To WS_Formula_Lastrow
                 End If
         End If
 Next j
-'''
+```
 
 # 成果展示
+如下圖輸入應生產數量，並調整預期的製損率
+![輸入數量](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Input.JPG)
 
-
+不用5秒鐘，即可得到最終報表
+![結果報表](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Result.JPG)
 
 # 預想未來還可以拓展的功能
 + 寫這個程式的時候，公司的倉儲資料尚未建置，若導入倉儲部門的資料，可以使程式再進一步跨部門整合，使結果更有參考價值
