@@ -13,8 +13,8 @@
 # 面對挑戰，找到解法
 考慮到未來資料大量增加的時候，依然保持程式的執行效率，我決定採用Dictionary，但是無法達到我預期的效果。我把問題交給ChatGPT、CoPilot、DeepAI等模型，最後決定採用雙層Dictionary + Array的方式來完成，代碼最核心的邏輯如下：
 
-vba
-'''
+
+'''vba
 Dim IngredientName As String
 Dim Supplier As String
 Dim Dosage As Double
