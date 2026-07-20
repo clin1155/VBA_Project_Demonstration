@@ -58,7 +58,7 @@ Next j
 如下圖輸入應生產數量，並調整預期的製損率
 ![輸入數量](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Input.JPG)
 
-不用5秒鐘，即可得到最終報表
+不用5秒鐘，即可得到最終報表--
 ![結果報表](https://github.com/clin1155/VBA_Project_Demonstration/blob/ee07e944c17ae220d4da062f89e5cea961dea907/ScreenShot/Result.JPG)
 
 # 預想未來還可以拓展的功能
